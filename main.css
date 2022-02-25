@@ -1,0 +1,42 @@
+#number-one{
+    color: green;
+}
+
+#number-two{
+    background-color: dodgerblue;
+    color: blanchedalmond;
+}
+
+#number-three{
+    height: 74px;
+    width: 150px;
+    border: 3em solid salmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrapper img{
+    height: 215px;
+    width: 300px;
+    margin: 3em;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: aquamarine;
+    text-shadow: 2px 2px 4px rgb(65, 57, 59);
+}
+
+.background {
+    background-image: url("../CSSCheckup/Assets/vegas.JPG");
+    background-size: contain;
+
+}
+
+.background-2{
+    background-color: peru;
+}
+
+.background-3{
+    background-color: darkgrey;
+}
